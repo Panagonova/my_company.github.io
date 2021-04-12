@@ -857,7 +857,9 @@ p {
     padding-bottom: 80px; } }
 
 .single-project {
-  position: relative; }
+  position: relative; 
+  height: 250px;
+}
   .single-project .project-image {
     position: relative; }
     .single-project .project-image::before {
